@@ -9,39 +9,8 @@
     vertical-align: top;
 }
 
-.logo {
-    width: 23%;
-    padding: 1%;
-    text-align: center;
-}
-
-nav {
-    width: 73%;
-    padding: 1%;
-}
-
-.heroImg {
-    height: 600px;
-    padding: 25%;
-}
-
-.content {
-    width: 500px;
-    margin: 0 auto;
-}
 
 footer {
     background-color: #373738;
     color: white;
-}
-
-ul {
-    width: 50%;
-    margin-left: auto;
-    display: inline-block;
-    vertical-align: top;
-}
-
-li {
-    padding: 20px;
 }
